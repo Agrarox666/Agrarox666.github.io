@@ -62,6 +62,9 @@ li {
 }
 
 jpg {
-  margin: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
 }
 /* END */
