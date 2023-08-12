@@ -25,7 +25,7 @@ section {
 }
 /* END */
 
-h2 {
+h3 {
   /* BEGIN (write your solution here) */
   margin-top: 0;
   padding-bottom: 30px;
@@ -51,7 +51,7 @@ h1 {
   font-size: 60px;
 }
 
-section > h2 {
+section > h3 {
   padding: 0;
   text-align: left;
   border: none;
