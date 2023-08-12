@@ -67,5 +67,6 @@ li {
   align-items: center;
   margin: 50px;
   padding: 50px;
+  border: 1px solid #000000;
 }
 /* END */
