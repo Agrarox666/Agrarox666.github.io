@@ -61,7 +61,7 @@ li {
   margin-bottom: 10px;
 }
 
-jpg {
+.wrap {
   display: flex;
   justify-content: center;
   align-items: center;
